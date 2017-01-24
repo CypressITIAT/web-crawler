@@ -50,4 +50,4 @@ Key : http://www.bgr.in/reviews/xiaomi-redmi-note-3-review-the-game-changer-agai
 Key : http://www.mi.com/in/mi5/ Value : 4
 Key : http://www.livemint.com/Consumer/zirc8i0M5bksidFpXJKqIJ/Review-Xiaomi-Mi-5-can-be-the-genuine-flagship-killer.html Value : 3
 Key : http://www.mi.com/in/note4/ Value : 5
-Key : http://www.mi.com/in/about/privacy/ Value : 1
+Key : http://www.mi.com/in/about/privacy/ Value : 1 
