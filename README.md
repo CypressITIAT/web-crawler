@@ -12,7 +12,9 @@ Eg. usage: to search for keywords memory and camera on http://www.mi.com/in run 
 ThreadCreator is the main class.
 
 Eg. ouput
+
 Ranking for Search String: memory
+
 Key : http://www.mi.com/in/redmi3s/ Value : 1
 Key : http://www.businesstoday.in/technology/reviews/xiaomi-redmi-note-4-review-improvising-perfection/story/244513.html Value : 2
 Key : http://www.gizmodo.in/indiamodo/Review-Just-Go-And-Buy-The-Xiaomi-Redmi-3S-Prime/articleshow/53523786.cms Value : 2
@@ -22,6 +24,7 @@ Key : http://www.mi.com/in/note4/ Value : 1
 Key : http://www.mi.com/in/note3/ Value : 1
 
 Ranking for Search String: camera
+
 Key : http://www.mi.com/en/ Value : 1
 Key : http://www.businesstoday.in/technology/reviews/xiaomi-redmi-note-4-review-improvising-perfection/story/244513.html Value : 6
 Key : http://www.mi.com/in/mimax/ Value : 2
