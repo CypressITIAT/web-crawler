@@ -9,7 +9,7 @@ To restrict the program from running indefinately the depth for parsing urls is 
 
 Eg. usage: to search for keywords memory and camera on http://www.mi.com/in run the program in command line with arguments: memory camera
 
-ThreadCreator is the main class.
+ThreadCreator is the main class. This class will take the various keywords and run the ranking for each word in a separate thread.
 
 Eg. ouput
 
